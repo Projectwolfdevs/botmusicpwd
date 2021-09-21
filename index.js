@@ -44,7 +44,7 @@ bot.status({
 
 	type: "PLAYING", //Status de gameplay (Informa que está jogando algo)
 
-	time: 12 //Tempo que demora cada status
+	time: 12 //Tempo que demora cada status segundos
 
 }) 
 
