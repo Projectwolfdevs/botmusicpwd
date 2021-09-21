@@ -1,5 +1,12 @@
 # Bot de música
-com comandos simples e funcionais.
+com comandos simples e funcionais como:
+{prefix}play
+{prefix}skip
+{prefix}queue
+{prefix}stop
+{prefix}volume (aumentar volume da música)
+{prefix}np (saber em que seg/min a música está)
+
 
 #
 
