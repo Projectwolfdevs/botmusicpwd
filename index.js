@@ -88,7 +88,7 @@ bot.command({
 $setUserVar[duration;$sendMessage[{title:$songInfo[title]}{url:$songInfo[url]}{description:$getObjectProperty[bar]
 \`${current1} / ${duration1}\`
 
-Pedido por <@$songInfo[userID]>}{thumbnail:$songInfo[thumbnail]}{color:GREEN}{footer:© bot by 10k | Music}{author:Now Playing:$userAvatar[$clientID]};yes]]
+Pedido por <@$songInfo[userID]>}{thumbnail:$songInfo[thumbnail]}{color:GREEN}{footer:© bot by 10k | Music}{author:Tocando Agora:$userAvatar[$clientID]};yes]]
 $djseval[const util = require('dbd.js-utils')
 d.object.bar = util.progressBar(${current}, ${duration}, 20, "📀", "▬", "▬")]
 $createObject[{}]`
