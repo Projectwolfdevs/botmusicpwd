@@ -9,7 +9,7 @@
   "engines": {
     "node": "12.x"
   },
-  "author": "author",
+  "author": "Author",
   "license": "MIT",
   "dependencies": {   
     "dbd.db": "^1.3.12",
