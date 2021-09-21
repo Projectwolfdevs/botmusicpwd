@@ -9,7 +9,7 @@ com comandos simples e funcionais como:
 
 {prefix}stop
 
-{prefix}volume (aumentar volume da música)
+{prefix}volume (aumentar volume da música).
 
 {prefix}np (saber em que seg/min a música está)
 
