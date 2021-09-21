@@ -1,5 +1,5 @@
 # Bot de música
-com comandos simples e funcionais
+com comandos simples e funcionais.
 
 #
 
